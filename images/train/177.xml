@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>177.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\177.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>39</ymin>
+			<xmax>222</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>
